@@ -2,8 +2,9 @@
 
 # Dana Hammad
 
-**Computer & Networking Engineering Technology**<br>
-Network Security · AI-Driven Intrusion Detection Systems
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Network+Security+%C2%B7+IDS%2FIPS;AI-Driven+Threat+Detection;SDN+%26+Federated+Learning;Computer+%26+Networking+Engineer)
+
+🎓 2026 graduate in Computer & Networking Engineering · 🔐 Network security & AI-driven detection · 📍 Dubai, UAE · 💬 Open to graduate roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-hammad-00a277350)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Danaomarr188@gmail.com)
@@ -14,13 +15,13 @@ Network Security · AI-Driven Intrusion Detection Systems
 
 ---
 
-## About
+## 🛡️ About
 
 Bachelor of Computer & Networking Engineering Technology, specializing in **network security** and **AI-driven intrusion detection systems**. I have hands-on experience building enterprise network infrastructures, federated-learning IDS/IPS systems, and full-stack web applications, with a strong background in network architecture, routing, VLAN implementation, and machine-learning integration for cybersecurity applications.
 
 ---
 
-## Skills
+## 🧰 Skills
 
 **Networking**
 
@@ -71,10 +72,12 @@ Bachelor of Computer & Networking Engineering Technology, specializing in **netw
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
 ### Federated Learning IDS/IPS over SDN IoT Test Bed — *Final Year Project*
 Designed and implemented a distributed intrusion detection and prevention system, integrating Software Defined Networking (SDN) controllers with machine-learning models for real-time threat detection. Evaluated performance, scalability, and detection accuracy across multiple network environments, with analysis of network attacks and automated detection mechanisms.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dana-Hamamd/federated-learning-ids-ips-sdn)
 
 `Python` · `TensorFlow` · `Keras` · `Mininet` · `Ryu Controller` · `SDN`
 
@@ -89,10 +92,14 @@ Contributed to MIRAGE, a controlled SOC lab for **detection engineering** and an
 ### Recipe Hub — *Full-Stack Web Application*
 Built a CRUD-based web application with user authentication and database integration, developing both frontend and backend functionality.
 
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dana-Hamamd/recipe-hub)
+
 `SvelteKit` · `Prisma` · `SQLite` · `JavaScript`
 
 ### Enterprise Network Design
 Designed an enterprise network topology using routers, switches, and VLAN segmentation. Configured routing, implemented network security controls, and performed testing and troubleshooting to ensure connectivity and performance.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dana-Hamamd/enterprise-network-design)
 
 `Routing & Switching` · `VLAN Segmentation` · `Network Security`
 
@@ -108,7 +115,7 @@ Designed wireless infrastructure including access-point placement and channel op
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -119,7 +126,7 @@ Designed wireless infrastructure including access-point placement and channel op
 
 ---
 
-## Education
+## 🎓 Education
 
 **Canadian University of Dubai** — Dubai, UAE<br>
 *Bachelor of Computer and Networking Engineering Technology*<br>
@@ -127,7 +134,7 @@ January 2022 – May 2026
 
 ---
 
-## Connect
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-hammad-00a277350)
 [![Email](https://img.shields.io/badge/Danaomarr188@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Danaomarr188@gmail.com)
