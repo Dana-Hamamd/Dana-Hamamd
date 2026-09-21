@@ -78,6 +78,14 @@ Designed and implemented a distributed intrusion detection and prevention system
 
 `Python` · `TensorFlow` · `Keras` · `Mininet` · `Ryu Controller` · `SDN`
 
+### MIRAGE SOC Lab — *Security Operations Center Lab*
+Contributed to MIRAGE, a controlled SOC lab for **detection engineering** and analyst-workflow training. It replays deterministic telemetry, builds explainable analyst cases with evidence timelines and MITRE ATT&CK context, and evaluates whether detection rules still behave as expected after changes — including boundary tests that verify what should *not* raise an alert.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohammadThabetHassan/mirage-soc-lab)
+[![Live Overview](https://img.shields.io/badge/Live%20Overview-1F6FEB?style=flat-square&logo=githubpages&logoColor=white)](https://mohammadthabethassan.github.io/mirage-soc-lab/)
+
+`TypeScript` · `React` · `Detection Engineering` · `MITRE ATT&CK` · `SOC`
+
 ### Recipe Hub — *Full-Stack Web Application*
 Built a CRUD-based web application with user authentication and database integration, developing both frontend and backend functionality.
 
