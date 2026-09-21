@@ -115,17 +115,6 @@ Designed wireless infrastructure including access-point placement and channel op
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dana-Hamamd&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dana-Hamamd&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Canadian University of Dubai** — Dubai, UAE<br>
